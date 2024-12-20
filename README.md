@@ -37,7 +37,7 @@ Python 3.x: Ensure you have Python 3.x installed on your system.
 Installation
 ## Clone the Repository:
 
-git clone https://github.com/yourusername/hangman.git
+git clone https://github.com/BADUGU-SRICHETAN/hang-man.git
 cd hangman
 Install Python: Make sure Python 3.x is installed on your system. You can download it from the official Python website.
 
